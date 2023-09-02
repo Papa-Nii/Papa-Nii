@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abbey Eugene
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Java and hope to delve into JavaScript subsequently
-- 💞️ I’m looking to collaborate with like minded developers to provide solutions to life and daily challenges
+- 💞️ I’m looking to collaborate with like minded developers to provide solutions to everyday challenges
 - 📫 How to reach me ...
 
 <!---
